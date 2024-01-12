@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mod2_les8_task3", "mod2_les8_task3\mod2_les8_task3.csproj", "{DEBA3F9B-FABB-43D2-BFB5-1827249BD7AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEBA3F9B-FABB-43D2-BFB5-1827249BD7AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEBA3F9B-FABB-43D2-BFB5-1827249BD7AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEBA3F9B-FABB-43D2-BFB5-1827249BD7AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEBA3F9B-FABB-43D2-BFB5-1827249BD7AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {293F7579-A04B-4DE3-81D6-D3880E59824F}
+	EndGlobalSection
+EndGlobal
